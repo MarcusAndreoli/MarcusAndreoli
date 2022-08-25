@@ -6,10 +6,8 @@
 - 🦾 Conhecimentos em HTML 5, CSS 3, JavaScript e Bootstrap
 - 🖱 Conhecimentos em Wordpress
 - 🛠 Conhecimentos básicos em edição de imagens em Photoshop e CorelDraw
-- 📧 Email: marcus.vinicius2002@hotmail.com
-- 📳 https://www.facebook.com/marcusvinicius.pissinatiandreoli/
 
-<div align = "center"> 
+<div> 
   <a href="https://github.com/MarcusAndreoli"> 
   <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=MarcusAndreoli&show_icons=true&theme=radical&include_all_commits=true&count_private=true" /> 
   <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MarcusAndreoli&layout=compact&langs_count=7&theme=codeSTACKr" /> 
