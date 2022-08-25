@@ -34,3 +34,5 @@
 <a href="https://api.whatsapp.com/send?phone=5519994500618&text=Olá" target="blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
   
 ![Snake animation](https://github.com/MarcusAndreoli/MarcusAndreoli/blob/main/snake.svg)
+  
+</div>
