@@ -1,4 +1,4 @@
-### Marcus Andreoli 👋
+### Hi, I'm Marcus Andreoli 👋
 
 - 💻 Técnico em Informática para Internet
 - 👾 Cursando Bacharelado em Ciência da Computação pela Faculdade Descomplica EAD
