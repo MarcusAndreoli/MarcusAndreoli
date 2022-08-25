@@ -1,7 +1,5 @@
 ### Marcus Andreoli 👋
 
-**MarcusAndreoli/MarcusAndreoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - 💻 Técnico em Informática para Internet
 - 👾 Cursando Bacharelado em Ciência da Computação pela Faculdade Descomplica EAD
 - 🧠 Conhecimentos em PHP, MYSQL e Laravel
