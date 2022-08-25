@@ -35,4 +35,3 @@
   
 ![Snake animation](https://github.com/MarcusAndreoli/MarcusAndreoli/blob/main/snake.svg)
   
-</div>
