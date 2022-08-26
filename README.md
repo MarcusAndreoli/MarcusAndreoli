@@ -8,13 +8,13 @@
 
 </br>
 
-<div align = "center">
- <p>💻 Técnico em Informática para Internet</p>
- <p>👾 Cursando Bacharelado em Ciência da Computação pela Faculdade Descomplica EAD</p>
- <p>🧠 Conhecimentos em PHP e MYSQL</p>
- <p>🦾 Conhecimentos em HTML 5, CSS 3, JavaScript e Bootstrap</p>
- <p>🖱 Conhecimentos em Wordpress e Laravel</p>
- <p>🛠 Conhecimentos básicos em edição de imagens em Photoshop e CorelDraw</p>
+<div>
+ <p>- 💻 Técnico em Informática para Internet</p>
+ <p>- 👾 Cursando Bacharelado em Ciência da Computação pela Faculdade Descomplica EAD</p>
+ <p>- 🧠 Conhecimentos em PHP e MYSQL</p>
+ <p>- 🦾 Conhecimentos em HTML 5, CSS 3, JavaScript e Bootstrap</p>
+ <p>- 🖱 Conhecimentos em Wordpress e Laravel</p>
+ <p>- 🛠 Conhecimentos básicos em edição de imagens em Photoshop e CorelDraw</p>
 </div>
 
 </br>
