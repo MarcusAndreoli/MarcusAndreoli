@@ -36,20 +36,6 @@
 
 </br>
 
-<div align="center"> 
-  
-    <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=MarcusAndreoli&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true" /> 
-    <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MarcusAndreoli&layout=compact&langs_count=7&theme=codeSTACKr" /> 
-  <a href="https://beacons.ai/marcusandreoli">
-  </a>
-</div>
-  
-</br>
-
-##
-
-</br>
-
 <div align = "center">
   <a href="https://www.facebook.com/marcusvinicius.pissinatiandreoli/" target="blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/marcus-andreoli-2198ba1b9/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
