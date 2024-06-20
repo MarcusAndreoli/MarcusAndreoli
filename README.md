@@ -22,7 +22,6 @@
 <div style = "display: inline_block" align="center"> <br> 
 <img align= "center" height = "70" width = "80" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />  
 <img align= "center" height = "70" width = "80" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /> 
-<img align= "center" height = "70" width = "80" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
 <img align= "center" height = "70" width = "80" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
 <img align= "center" height = "70" width = "80" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
 <img align= "center" height = "70" width = "80" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
